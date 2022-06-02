@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(192, 212, 135);
+    background-color: rgb(239, 241, 232);
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     
@@ -34,7 +34,18 @@ body{
 }
 /*-------------------- Fin Encabezado--------------------------------*/
 
+/*-----------Cuerpo General-----------------*/
+.main-index {
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 0.5fr;
+    grid-template-areas: ". cuerpo .";
+    margin-top: 5rem;
 
+}
+
+.main-index-cuerpo{
+    grid-area: cuerpo;
+}
 /*--------------------Grid Canchas--------------------------------*/
 
 .main-canchas {
