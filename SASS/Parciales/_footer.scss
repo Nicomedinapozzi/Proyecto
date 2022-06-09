@@ -1,0 +1,15 @@
+footer{
+    display: flex;
+    justify-content: space-around;
+    margin: $margingral;
+
+    p{
+        margin-top: 1rem;
+    }
+    
+    img{
+        margin: $margingral;
+        width: 10%;
+    }
+}
+

@@ -38,6 +38,7 @@ body{
 .main-index {
     display: grid;
     grid-template-columns: 0.5fr 2fr 0.5fr;
+    grid-template-rows: 1fr 1fr;
     grid-template-areas: ". cuerpo .";
     margin-top: 5rem;
 
@@ -100,7 +101,10 @@ body{
 }
 .main-staff5{
     grid-area: staff5;
+    
 }
+
+
 
 
 /*---------------------------------------------- FOOTER-------------------------------------------------*/
@@ -124,7 +128,7 @@ footer img{
 /*---------------Media Queries---------------------------------*/
 
 
-@media screen and (max-width:600px){
+@media screen and (max-width:576px){
 
     body {
         background-color: rgb(138, 228, 165);

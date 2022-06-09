@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(239, 241, 232);
+    font-family: $fuentetit;
+    text-align: center;
+    
+}
+
+.main-gral {
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 0.5fr;
+    grid-template-areas: ". cuerpo .";
+    margin-top: 5rem;
+
+    .cuerpo{
+        grid-area: cuerpo;
+    }
+
+}
+
+.main-staff{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas: "staff1 staff2"
+                         "staff3 staff4"
+                         "staff5 .";
+
+                        .staff1{
+                            grid-area: staff1;
+                        }
+                        .staff2{
+                            grid-area: staff2;
+                        }
+                        .staff3{
+                            grid-area: staff3;
+                        }
+                        .staff4{
+                            grid-area: staff4;
+                        }
+                        .staff5{
+                            grid-area: staff5;
+                        }
+}
+
+
+

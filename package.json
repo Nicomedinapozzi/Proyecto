@@ -1,0 +1,25 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "Paquete SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass --include-path scss SASS/main.scss Estilos/main.css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""     
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicomedinapozzi/Proyecto.git"
+  },
+  "author": "Nicolas Medina Pozzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicomedinapozzi/Proyecto/issues"
+  },
+  "homepage": "https://github.com/Nicomedinapozzi/Proyecto#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.16"
+  }
+}
