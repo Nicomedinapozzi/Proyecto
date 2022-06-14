@@ -1,15 +1,18 @@
-footer{
+.footer{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
     margin: $margingral;
 
-    p{
-        margin-top: 1rem;
-    }
     
-    img{
-        margin: $margingral;
-        width: 10%;
+    &_redes ul a{  
+        flex-grow: 1;     
+        margin: $margingral;        
+        list-style: none;
+        text-decoration: none; 
     }
+
+   
+
 }
 
