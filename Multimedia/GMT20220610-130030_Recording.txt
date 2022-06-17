@@ -1,0 +1,62 @@
+00:12:21	Esteban Gustavo Barone:	si...bien
+00:12:40	Joaquin Muiño:	perfecto
+00:14:13	Lautaro Cruz:	hola migue , buen dia , después cuando haya un tiempo libre podría consultarte sobre la instalación de node porque estuve intentando y no pude
+00:14:28	Lautaro Cruz:	gracias !
+00:18:30	Patricio Albornoz:	Buen dia!! pensé que era 10.30
+00:18:52	Patricio Albornoz:	bien, gracias
+00:20:34	Pablo de Marcos:	muy bien
+00:20:39	Lautaro Cruz:	todo bien por ahora
+00:20:41	Brian Schmid:	por ahora perfecto!
+00:23:07	Lautaro Cruz:	por ahora bien !!
+00:23:08	Luciana Pereyra:	perfecto
+00:27:46	Patricio Albornoz:	nop
+00:27:46	Valentina Galván:	super bienn
+00:31:48	Manuela Mancione:	todo bien
+00:36:34	Manuela Mancione:	si
+00:36:37	Patricio Albornoz:	👍
+00:36:37	Pablo de Marcos:	si
+00:39:22	Pablo de Marcos:	todo bien
+00:39:27	Lautaro Cruz:	por ahora todo claro
+00:40:34	Joaquin Muiño:	LinkedIn, Facebook e Instagram son clases no ?
+00:40:44	Joaquin Muiño:	👍
+00:41:13	Pablo de Marcos:	le esta dando el color de LinkedIn a facebook
+00:41:13	Luciana Pereyra:	yo lo entiendo pero no le veo mucho la practicidad
+00:41:35	Pablo de Marcos:	jaja
+00:50:05	Pablo de Marcos:	después podrías pasarnos el reset que usas?
+00:50:07	Luciana Pereyra:	bien!
+00:50:07	Pablo de Marcos:	si todo bvien
+00:50:25	Pablo de Marcos:	perfecto
+00:54:07	Patricio Albornoz:	podrias hacer otro
+00:54:08	Patricio Albornoz:	de ejemplo?
+00:54:12	Sebastian Scheel:	no enendi =(
+00:54:16	Sebastian Scheel:	entendi
+00:54:17	Pablo de Marcos:	no se para que usarlo
+00:56:24	Pablo de Marcos:	ok
+00:59:34	Pablo de Marcos:	si todo bien
+01:01:16	Patricio Albornoz:	como sabe el each que $redActual pertenece a las redes si nunca le "declaramos" eso
+01:01:23	Patricio Albornoz:	?
+01:02:09	Patricio Albornoz:	osea siempre el primero seria el nombre y después el valor
+01:02:13	Patricio Albornoz:	no importa que le pongamos
+01:02:43	Sebastian Scheel:	si
+01:02:44	Manuela Mancione:	sisi
+01:02:46	Valentina Galván:	si
+01:03:51	Patricio Albornoz:	😂
+01:06:21	Sebastian Scheel:	ir en cascada
+01:06:50	Joaquin Muiño:	entonces si tengo varias card, puedo aplicarle a todos h2 ?
+01:06:59	Joaquin Muiño:	👍
+01:07:03	Sebastian Scheel:	UH! creo q h1 lo repito y entre h1 y h1 tengo algun h2 colgado jaja
+01:08:38	Sebastian Scheel:	JAJAJA
+01:08:46	Patricio Albornoz:	por un tema de Accesiblidad seria
+01:09:47	Sebastian Scheel:	podras explicar lo del title de las paginas.. que jose dio el ejemplo con coderhouse.com
+01:10:07	Valentina Galván:	"gatitos"
+01:10:44	Manuela Mancione:	tienen que estar en mayusculas las keywords?
+01:11:16	Patricio Albornoz:	osea en resumen, los h1/2 etc, los meta description y keywords, las imágenes comprimidas, y los títulos de cada seccion
+01:11:41	Valentina Galván:	el meta description va en cada pag?
+01:12:24	Joaquin Muiño:	a todos los a ?
+01:13:02	Mariana Rubino:	Yo solo puse para que abra aparte el html de contacyo
+01:14:10	Valentina Galván:	el meta description va en cada pag?
+01:14:22	Pablo de Marcos:	si
+01:14:47	Patricio Albornoz:	Si Valen, en cada pagina cambian los description y keywords si no me equivoco
+01:14:57	Valentina Galván:	genial graciasss
+01:16:04	Joaquin Muiño:	rel: mgue me podrías ayudar con un tema que tengo de mi footer?
+01:16:08	Pablo de Marcos:	muchas gracias

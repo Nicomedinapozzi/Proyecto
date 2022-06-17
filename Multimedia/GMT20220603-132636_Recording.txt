@@ -1,0 +1,167 @@
+00:34:22	Gabriel Espagnol:	si totalmente!
+00:36:01	Pablo de Marcos:	perfecto
+00:36:04	Guille Fernandez:	joya
+00:36:12	Gabriel Espagnol:	estaría bueno ver el script que hay que insertar en el json
+00:36:22	Sebastian Scheel:	A mi la instalacion queda con :
+00:36:24	Sebastian Scheel:	[nodemon] app crashed - waiting for file changes before starting...
+00:36:30	Sebastian Scheel:	y no avanza
+00:36:49	Sebastian Scheel:	joya
+00:40:16	Sebastian Scheel:	si
+00:40:34	Vicente Xavier Martínez Fernández:	si profe, todo claro
+00:41:37	Pablo de Marcos:	si ese archivo steps me vendría muy bien
+00:41:41	[Coordi] Ayelen Campot:	"build-css": "node-sass --include-path scss scss/main.scss css/main.css",		"watch-css": "nodemon -e scss -x \"npm     run build-css\""
+00:42:03	Pablo de Marcos:	gracias
+00:42:15	Vicente Xavier Martínez Fernández:	thx
+00:42:22	Leandro Franco:	This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (proyecto-2)
+00:42:35	Leandro Franco:	me sale eso (?
+00:42:59	Sebastian Scheel:	no esta instalado el paquete o esta corrupto
+00:43:05	Leandro Franco:	dale
+00:44:44	Manuela Mancione:	me quedo una duda
+00:44:51	Manuela Mancione:	puedo hablar
+00:46:21	Manuela Mancione:	si
+00:46:23	Vicente Xavier Martínez Fernández:	sií
+00:46:32	Vicente Xavier Martínez Fernández:	qué bonito el fondo de pantalla
+00:49:49	Manuela Mancione:	si
+00:49:52	Sebastian Scheel:	no
+00:49:59	Sebastian Scheel:	porfa
+00:50:08	Leandro Franco:	tengo que copiarlo y pegarlo ?perdon
+00:50:08	Luciana Pereyra:	si de vuelta por fa
+00:50:43	Esteban Gustavo Barone:	yo no pude poner la carpeta scss
+00:51:49	Sebastian Scheel:	si
+00:52:04	Esteban Gustavo Barone:	creo un archivo comun… y le pongo scss
+00:52:07	Esteban Gustavo Barone:	si
+00:52:45	Pablo de Marcos:	si yo ya lo instale estoy repasando
+00:52:47	Mariana Rubino:	Ayelen, perdón la pregunta, pero esas nuevas carpetas se crean dentro de la carpeta de nuestro proyecto actual?
+00:52:48	Leandro Franco:	hay mucha diferencia entre esta opcion y la otra?
+00:53:31	Agustin Eliel Ibañez:	a mi recién me rompió las otras extensiones
+00:53:39	Agustin Eliel Ibañez:	la tuve que desinstalar y volver a instalarla
+00:53:45	Agustin Eliel Ibañez:	Sisi
+00:54:04	Agustin Eliel Ibañez:	Pero googlie, y vi q era normal que rompa las otras extensiones
+00:54:27	Esteban Gustavo Barone:	ahi lo logre
+00:54:31	Mariana Rubino:	Perfecto ! Gracias
+00:54:38	Sebastian Scheel:	yo no pude instalar
+00:54:43	Sebastian Scheel:	sigue con algun error
+00:54:49	Sebastian Scheel:	Si
+00:54:56	Sebastian Scheel:	gracias
+00:55:44	Leandro Franco:	me paso eso ja
+00:57:32	Pablo de Marcos:	si
+00:59:40	Mariana Rubino:	Jejej
+00:59:42	Mariana Rubino:	Sii
+01:02:04	Leandro Franco:	sin el {
+01:02:05	Esteban Gustavo Barone:	&
+01:02:26	Pablo de Marcos:	si
+01:02:27	Manuela Mancione:	si
+01:02:29	Luciana Pereyra:	si
+01:03:35	Manuela Mancione:	si
+01:03:35	Esteban Gustavo Barone:	si
+01:04:05	Leandro Franco:	osea basicamente es como agrupar las cosas
+01:04:56	Gabriel Espagnol:	Me tengo que retirar Ayelen. Buen fin de semana para todos! Saludos!!
+01:05:19	Guille Fernandez:	buen finde!
+01:05:52	Pablo de Marcos:	claro
+01:06:09	Mariana Rubino:	Ayelen, todo lo escrito en scss es lo que escribimos en nuestro css original? Y al guardar automáticamente como o dnd veo la ventana que te muestra en verde?
+01:06:20	Pablo de Marcos:	importante poner el .gitignore
+01:07:14	Mariana Rubino:	En la consola del visual tendría que seguir usando bash?
+01:07:45	Mariana Rubino:	Espero a que lo abras entonces
+01:07:57	Mariana Rubino:	No, perdón esque estoy perdida
+01:08:06	Mariana Rubino:	Si no te molesta dsp te preguhnto
+01:08:52	Leandro Franco:	y eso en la extension como se ve
+01:09:29	Leandro Franco:	okey
+01:10:38	Joaquin Muiño:	Buenas!!
+01:10:49	Mariana Rubino:	Yo abro la terminal, en bash, como llego a dnd estas vos?
+01:10:58	Leandro Franco:	aye a mi se me habian creado, estilos.css y estilos.css.map en la carpeta scss y directamente las movi con el mouse, esta muy mal eso?
+01:10:58	Mariana Rubino:	Desde visual?
+01:18:40	Mariana Rubino:	Perdón a todos !!
+01:20:41	Luciana Pereyra:	no, buenísimo mariana, yo tenia las mismas dudas
+01:21:00	Leandro Franco:	si xf
+01:21:04	Manuela Mancione:	si
+01:21:08	Leandro Franco:	Xfa
+01:21:16	Agustin Eliel Ibañez:	yo no entiendo bien el uso de &
+01:23:08	Agustin Eliel Ibañez:	Siempre seria lo mismo del selector que tenga arriba no?
+01:23:43	Agustin Eliel Ibañez:	Dale gracias, sisi ahí entendi
+01:24:16	Pablo de Marcos:	super
+01:26:17	Mariana Rubino:	Aye, que pasa si al ir anidando me doy cuenta que escribí de mas, o una linea se pisa con otra? Se puede cambiar desde el scss?
+01:27:04	Mariana Rubino:	Claro, porque estoy segura que en mi css quedaron cosas que cambie, y están viejas por ej.
+01:27:06	Mariana Rubino:	claroo
+01:27:20	Mariana Rubino:	Puedo modificarlo desde scss
+01:27:22	Mariana Rubino:	?
+01:28:31	Mariana Rubino:	Ósea que a partir de ahora el css no lo usamos mas
+01:28:33	Mariana Rubino:	?
+01:28:34	Mariana Rubino:	Oka.
+01:29:23	Agustin Eliel Ibañez:	Si tengo una variable, la tengo que importar en las otras partes de scss que tengo?
+01:29:25	Manuela Mancione:	perfecto
+01:29:29	Pablo de Marcos:	si
+01:29:39	Agustin Eliel Ibañez:	Justito pregunte jaja
+01:33:26	Pablo de Marcos:	buenisimoç
+01:33:35	Mariana Rubino:	Y si tuvieras solamente roboto, sin sans serif? Le pones la variable también?
+01:33:35	Leandro Franco:	si
+01:33:36	Manuela Mancione:	si
+01:33:59	Mariana Rubino:	Perfecto !
+01:34:39	Agustin Eliel Ibañez:	No había que separarlo en varios scss?
+01:35:55	Manuela Mancione:	para nomrbar las variables… es libre y las nombro como quiero o hay una regla o algo asi para nombrarlas?
+01:36:24	Manuela Mancione:	bien, claro
+01:39:51	Manuela Mancione:	el guion bajo?
+01:41:07	Mariana Rubino:	Seria entonces… anidar, poner variables, y dsp separar por _scss, y automáticamente la terminal me importa ?
+01:41:13	Vicente Xavier Martínez Fernández:	sí profe, queda claro
+01:41:28	Mariana Rubino:	Vamos barbaro !!!  🙂
+01:41:28	Sebastian Scheel:	lo ideal seria tener ordenado el css
+01:41:29	Pablo de Marcos:	perfecto
+01:41:30	Luciana Pereyra:	se entendio
+01:41:30	Manuela Mancione:	quedo claro
+01:41:42	Guille Fernandez:	si de 10
+01:43:48	Mariana Rubino:	Sisi
+01:43:48	Guille Fernandez:	sisi
+01:43:49	Luciana Pereyra:	si
+01:44:28	Agustin Eliel Ibañez:	Puede mostrar otra ves el git ignore?
+01:44:55	Leandro Franco:	si uso la extension tengo que crear git ignore?
+01:44:55	[Coordi] Ayelen Campot:	node_modules/
+01:45:02	Luciana Pereyra:	pero tenemos que crear un nuevo repositorio? no usamos el ya creado en clase anterior?
+01:45:10	Luciana Pereyra:	ok
+01:45:43	Leandro Franco:	si uso la extension tengo que crear git ignore?
+01:45:58	Luciana Pereyra:	después tenog una pregunta sobre eso pero si queres te la hago al final
+01:46:36	Agustin Eliel Ibañez:	hizo init?
+01:48:04	Pablo de Marcos:	gracias
+01:49:35	Pablo de Marcos:	´si lo hacemos por la extensión de visual code para git es lo mismo?
+01:49:47	Pablo de Marcos:	perfecto
+01:50:05	Leandro Franco:	si uso la extension tengo que crear git ignore?
+01:50:34	Luciana Pereyra:	yo tengo una duda sobre el git push pero te la hago al final si queres
+01:50:41	Luciana Pereyra:	asi te muestro
+01:51:22	Leandro Franco:	que pongo adentro del git ignore(? perdon no preste atencion
+01:51:36	[Coordi] Ayelen Campot:	node_modules/
+01:52:01	Leandro Franco:	graxx
+01:52:08	Esteban Gustavo Barone:	perdon…. mi css se llama style.css, tengo que llamar igual el scss...
+01:52:09	Pablo de Marcos:	perfecto!!
+01:52:14	Pablo de Marcos:	muchas gracias
+01:52:26	Manuela Mancione:	si, quedo claro👏 muchas gracias
+01:52:29	Vicente Xavier Martínez Fernández:	profee, tengo dos dudas
+01:52:30	Leandro Franco:	a mi me quedo solo una duda
+01:52:53	Mariana Rubino:	Gracias ! Pero prefiero escuchar las dudas !!
+01:53:01	Sebastian Scheel:	clear
+01:53:03	Mariana Rubino:	jajaj
+01:53:09	Sebastian Scheel:	claro..
+01:53:12	Sebastian Scheel:	bueno
+01:53:19	Pablo de Marcos:	adios gente
+01:53:35	Leandro Franco:	chauu
+01:53:47	Esteban Gustavo Barone:	perdon…. mi css se llama style.css, tengo que llamar igual el scss...
+01:53:48	Leandro Franco:	no le digo a pablo jajaja
+01:54:11	Esteban Gustavo Barone:	ok
+01:54:30	Sebastian Scheel:	ahi va
+01:57:45	Esteban Gustavo Barone:	perdon….copio y pego todo mi style.css dentro de la nueva carpeta style.scss
+01:58:02	Agustin Eliel Ibañez:	en el build no va sass/main.scss?
+01:58:17	Agustin Eliel Ibañez:	el tiene scss/main.scss
+02:00:45	[Coordi] Ayelen Campot:	npm install -D node-sass nodemon
+02:03:27	Guille Fernandez:	gente me tengo que ir, gracias por todo. Buen finde!
+02:05:02	Luciana Pereyra:	yo
+02:05:03	Esteban Gustavo Barone:	consulta….….copio y pego todo mi style.css dentro de la nueva carpeta style.scss  ?
+02:05:17	Esteban Gustavo Barone:	ok
+02:05:46	Leandro Franco:	mi duda ya la explicaste pero no entendi bien
+02:06:20	Leandro Franco:	a mi me crea las carpetas estilos.css y estilos.css.map en la carpeta scss

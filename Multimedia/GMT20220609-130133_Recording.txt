@@ -1,0 +1,157 @@
+04:31:43	Israel Hernández Galicia:	Buen día Profe
+04:31:44	[Tutora] Yamila Vazquez:	Buen día!!
+04:31:47	Emilio Tomas Fiad Rodriguez:	Buen dia profe
+04:31:52	[Coordinadora]Ayelen Campot:	cada vez entran unos minutos más tarde
+04:33:05	(PROFE) José Amador:	https://docs.google.com/presentation/d/1zvvus1C4gQsW1FM7lsvdSi1LPhhRmyMivkEV-23V9x0/edit?usp=sharing
+04:33:20	TUTOR - Nico Cuello:	buen dia!
+04:33:25	TUTOR - Nico Cuello:	vamos que lo más duro ya pasó ajaja
+04:33:35	Juan Martinez:	buen dia
+04:33:40	[TUTOR] Tomas Babikian:	Buenas! Buenas! Ya estamos cuesta abajo!
+04:33:43	[Coordinadora]Ayelen Campot:	ya están
+04:33:53	[Coordinadora]Ayelen Campot:	aprovechen para ir puliendo los proyectos ahora si
+04:34:07	[Tutor] Omar Manias:	ahora es cuesta abajo
+04:34:14	[Coordinadora]Ayelen Campot:	Es importante pero más sencillo
+04:34:49	TUTOR - Nico Cuello:	aprovechen que quizás con estas entregas que vienen que son más tranquilas, van a tener más tiempo para pulir los proyectos finales
+04:34:50	[Tutora] Yamila Vazquez:	Está bueno para que aprovechen para trabajar en los detalles de su proyecto esta etapa
+04:35:01	[Tutora] Yamila Vazquez:	jajj tal cual Nico
+04:35:17	Leandro Franco:	conectados
+04:35:37	Israel Hernández Galicia:	No me ofenda a Robert profe
+04:36:36	Juan Martinez:	colegas :)
+04:46:39	[Tutora] Yamila Vazquez:	💪 vamossss que ya estamos
+04:46:41	[TUTOR] Tomas Babikian:	Ahora a pulir detalles!
+04:46:45	Matías Font:	profe, ya de aca en adelante no vemos mas código no?
+04:46:56	[TUTOR] Tomas Babikian:	No Mati
+04:47:06	Patricio Albornoz:	no somos 100 o.o
+04:47:09	[Coordinadora]Ayelen Campot:	Lo más dificl ya pasó
+04:47:18	Matías Font:	genial, gracias
+04:47:31	[Coordinadora]Ayelen Campot:	Por eso aprovechen para pulir sus proyectos
+04:58:02	Juan Martinez:	como una biblioteca
+05:01:07	Thiago Dalfino:	el server de minecraft
+05:01:21	franco petruzzi:	ajajajaja
+05:02:47	Felipe Monsegur:	sale un minecraft con el curso
+05:05:37	Lautaro Cruz:	eso tiene que ver con el protocolo https?
+05:15:06	[Tutora] Yamila Vazquez:	Les dejo un sitio que sirve para conocer la velocidad y rendimiento de un sitio https://pagespeed.web.dev/
+05:19:46	[Tutor] Miguel Rodenas:	https://tinypng.com/
+05:20:05	Leandro Franco:	wow de 2.9 mb a 135 kb
+05:20:24	Patricio Albornoz:	me da 73% de rendimiento la web
+05:20:39	Patricio Albornoz:	road to 90
+05:20:40	[Coordinadora]Ayelen Campot:	es muy importante optimizar las imágenes
+05:21:26	Benjamin Spaggiari:	como hago para ver mi pagina en el pagespeed?
+05:21:51	[Coordinadora]Ayelen Campot:	pones la url de tu sitio si lo tenés en GitHub pages
+05:21:52	Alessandro Pimentel:	94% de rendimiento me dio
+05:22:00	Benjamin Spaggiari:	aah okey
+05:22:01	[Tutora] Yamila Vazquez:	Benja lo probé con sus githubpages y funcionó
+05:23:33	Joaquin Muiño:	yo tengo 94 en ordenador y 47% en móvil :S
+05:23:51	Patricio Albornoz:	ah! 74% en móvil y 96% en Escritorio
+05:25:10	Patricio Albornoz:	profe estas compartiendo la ventana, no se ve el inspeccionar
+05:28:30	(TUTOR) Cesar Astorga:	Pasado el presente 🙋‍♂️
+05:28:42	Pablo de Marcos:	gracias
+05:28:50	[Tutor] Miguel Rodenas:	Por acá también, cualquier cosa luego escriban por la plataforma 💪
+05:28:55	(TUTOR) Cesar Astorga:	;)
+05:30:00	Benjamin Spaggiari:	como seria la forma de optimizar los videos?
+05:30:05	Sebastian Scheel:	todo ok.
+05:30:05	Pablo de Marcos:	aquí estamos
+05:30:36	[Coordinadora]Ayelen Campot:	l de Bootstrap icons está funcionando muy bien
+05:31:07	[Coordinadora]Ayelen Campot:	usen Bootstrap o no se puede usar
+05:31:46	Leandro Franco:	se puede poner con youtube
+05:32:20	Julian Bruno:	como se llama la librería de iconos ?
+05:32:57	Karen Andrea Saldaña:	Para los videos tambien se puede exportar para web desde programas de edicion como premier etc.
+05:33:43	[Tutora] Yamila Vazquez:	https://icons.getbootstrap.com/
+05:34:57	Leandro Franco:	si o si hay que pagar un host o hay gratis?
+05:35:06	[Coordinadora]Ayelen Campot:	hay host gratis
+05:35:14	[Coordinadora]Ayelen Campot:	vamos a ver algunos en otra clase
+05:37:28	[TUTOR] Tomas Babikian:	Asistencia pasada!
+05:38:03	TUTOR - Nico Cuello:	ASISTENCIA PASADA!
+05:41:10	[Coordinadora]Ayelen Campot:	Yo la coordi vengo del marketing jajaja pero no sé sicuenta
+05:41:10	Pablo de Marcos:	estamos
+05:41:14	[Tutora] Yamila Vazquez:	yo hice el curso de SEO de Coder jajaj
+05:41:38	[Tutora] Yamila Vazquez:	me gustò mucho
+05:41:44	TUTOR - Nico Cuello:	ajajaj literal
+05:41:55	Guille Fernandez:	no me la coderhouse
+05:42:01	[Tutora] Yamila Vazquez:	es útil para sumar un servicio más y es corto un mes dura
+05:42:02	Alessandro Pimentel:	jajaja
+05:42:12	Nicolas Rojas:	#ad
+05:42:14	Patricio Albornoz:	que cursos realizaste profe?
+05:42:22	Luciano Baudano:	#ad
+05:42:49	[Coordinadora]Ayelen Campot:	claro eso mutó a diseño UX Ui
+05:42:50	Benjamin Spaggiari:	profe una pregunta que no tiene mucho que ver, vamos a ver algo de ecommerce?
+05:43:10	Alessandro Pimentel:	Estudiaste carrera universitaria profe?
+05:43:19	Benjamin Spaggiari:	WordPress?
+05:43:41	Benjamin Spaggiari:	aah pensé que el curso de ecommerce era el de wordpress
+05:43:59	Alessandro Pimentel:	el desarrollo empezaste por coder?
+05:44:24	[Coordinadora]Ayelen Campot:	Yo como José soy lic en publicidad y fue a partir de campañas de email
+05:44:45	[Tutora] Yamila Vazquez:	comunicadora social por acà especializada en digital
+05:45:28	[Coordinadora]Ayelen Campot:	Perfecta definición jaja
+05:46:29	Patricio Albornoz:	CEO != SEO
+05:50:55	Benjamin Spaggiari:	jajajajja
+05:51:00	Sebastian Geido:	Jajajajajajajaj
+05:51:06	Leandro Lotfi:	jsjsjsas
+05:51:59	[Coordinadora]Ayelen Campot:	mínimo 6 meses
+05:53:42	Patricio Albornoz:	no estamos viendoo
+05:53:43	Pablo de Marcos:	no se ve profe
+05:53:44	Juan Martinez:	no se ve
+05:53:49	franco petruzzi:	no se ve
+05:54:13	Patricio Albornoz:	ahora si
+05:54:49	Ivan de Leon Martinez:	me voy al laburo suerte!
+05:56:21	Benjamin Spaggiari:	tiene que estar abajo de la hoja de estilos?
+05:57:39	Pablo de Marcos:	seria algo que aplicarle solo al index verdad?
+05:57:48	[Tutora] Yamila Vazquez:	en todos lo html
+05:57:52	Pablo de Marcos:	ok
+05:57:59	(TUTOR) Cesar Astorga:	A todos los html Pablo
+05:58:00	[Tutora] Yamila Vazquez:	dependiendo del contenido de cada una de tus páginas
+05:58:42	[Coordinadora]Ayelen Campot:	Puede estar arriba de la hoja de estilos no hay drama
+06:00:08	[Tutora] Yamila Vazquez:	Alrededor de 60 caracteres estaría bien
+06:04:53	Manuela Mancione:	los metes esos van en todas las paginas no? o solo en la del index?
+06:05:07	(TUTOR) Cesar Astorga:	En todas
+06:05:18	(TUTOR) Cesar Astorga:	y acorde al contenido
+06:05:33	Manuela Mancione:	aaa bien
+06:05:51	Esteban Gustavo Barone:	y la imagen que sale al lado como se elige o como se agrega…..
+06:06:13	[Tutora] Yamila Vazquez:	para la description son 155 caracteres, no más de eso
+06:11:03	Patricio Albornoz:	se puede hacer eso?
+06:11:20	Patricio Albornoz:	darle un mayor Font-size a un h2 o h3
+06:11:44	Lautaro Cruz:	una consulta, esta pasada la asistencia ?
+06:11:51	(TUTOR) Cesar Astorga:	Si patricio
+06:12:38	[Tutora] Yamila Vazquez:	Sí Lautaro, pasada también por acá
+06:12:50	Lautaro Cruz:	gracias yami
+06:12:54	Ignacio Caceres:	Seria mejor que no tenga ningún h1?
+06:16:54	Patricio Albornoz:	si
+06:20:24	Juan Martinez:	eso seria en el footer
+06:20:56	[Coordinadora]Ayelen Campot:	Es importante que el mapa de sitio se lo brinden a google
+06:21:41	[Coordinadora]Ayelen Campot:	https://search.google.com/search-console/about
+06:25:02	Benjamin Spaggiari:	pagespeed no era?
+06:25:14	[Tutora] Yamila Vazquez:	esta es otra Benja
+06:25:26	Benjamin Spaggiari:	aah oka
+06:25:31	Benjamin Spaggiari:	pero funcionan para lo mismo no?
+06:25:32	[Tutora] Yamila Vazquez:	es una extensión
+06:25:48	[Tutor] Miguel Rodenas:	les da un reporte con más datos
+06:26:10	[Tutor] Miguel Rodenas:	está bueno porque también les deja hacer click e ir a ver más info de lo que les dice que haya mejorar
+06:26:28	Pablo de Marcos:	super completo
+06:26:46	[Tutor] Miguel Rodenas:	les va a servir un montón para pulir la entrega final
+06:27:17	Ignacio Caceres:	como se llamaba la extension, me olvide
+06:27:24	Guadalupe Villalva Cédola:	lighthouse
+06:27:30	Ignacio Caceres:	gracias
+06:28:00	Benjamin Spaggiari:	el tiempo de carga depende del peso de los archivos?
+06:28:34	[Tutor] Miguel Rodenas:	si, generalmente lo que puede hacer que tarde mucho en estos proyectos son las imágenes
+06:28:46	[Tutor] Miguel Rodenas:	por eso está muy bueno optimizarlas
+06:31:00	(TUTOR) Cesar Astorga:	Tienen que ser en detalle muchachos
+06:31:19	[Tutor] Miguel Rodenas:	mañana after conmigo a las 10 Arg 💪
+06:31:21	(TUTOR) Cesar Astorga:	Agregue las siguientes keywords y pegan las keywords
+06:31:27	[Coordinadora]Ayelen Campot:	Eso mañana after con Miguel
+06:31:34	[Tutor] Omar Manias:	importante. busquen contenido en la web si no tienen esa info
+06:31:35	[Coordinadora]Ayelen Campot:	para terminar con SASS
+06:32:44	Elias Parodi:	a que hora es el after manana ­­­­
+06:32:55	[Tutor] Miguel Rodenas:	10:00 hs Arg 💪
+06:33:02	Elias Parodi:	gracias
+06:33:14	[Coordinadora]Ayelen Campot:	Hoy se valora
+06:33:31	[TUTOR] Tomas Babikian:	Saludos a todos! Que estén bien!
+06:33:33	Juliana Faria:	nos vemos buen finde!!!!
+06:33:36	Vicente Xavier Martínez Fernández:	gracias por todo profe
+06:33:40	[Coordinadora]Ayelen Campot:	Saludos, a ponerle pilas que ya estamos
+06:33:52	[Tutora] Yamila Vazquez:	Hasta la próxima!
+06:33:56	[Tutor] Miguel Rodenas:	Nos vemos mañanaa!
+06:33:59	(TUTOR) Cesar Astorga:	Nos vemos!
+06:34:02	Lautaro Cruz:	chau profee
+06:34:06	Manuela Mancione:	gracias profes
+06:34:07	Thiago Dalfino:	nos vemos profe, buen finde
+06:34:09	Pablo de Marcos:	gracias profe!!! buen finde
+06:34:10	Guille Fernandez:	buen finde, abrazo

@@ -36,27 +36,15 @@ body{
     grid-template-areas: "staff1 staff2"
                          "staff3 staff4"
                          "staff5 .";
+                         
+                         @for $i from 1 through 5 {
+                            .staff#{$i} {
+                                grid-area: staff#{$i};
+                                margin: $margingral;
+                            }
+                         }
 
-                        .staff1{
-                            grid-area: staff1;
-                            margin: $margingral;
-                        }
-                        .staff2{
-                            grid-area: staff2;
-                            margin: $margingral;
-                        }
-                        .staff3{
-                            grid-area: staff3;
-                            margin: $margingral;
-                        }
-                        .staff4{
-                            grid-area: staff4;
-                            margin: $margingral;
-                        }
-                        .staff5{
-                            grid-area: staff5;
-                            margin: $margingral;
-                        }
+                        
 }
 
 

@@ -1,0 +1,16 @@
+@mixin Fuentes ($size, $weight) {
+    font-size: $size;
+    font-weight: $weight;    
+}
+
+.letrachica {
+    @include Fuentes(1rem, 200)
+}
+
+.letramed {
+    @include Fuentes(2rem, 400)
+}
+
+.letragrande {
+    @include Fuentes(3rem, 600)
+}

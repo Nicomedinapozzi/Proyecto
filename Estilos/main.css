@@ -52,6 +52,60 @@ body {
     list-style: none;
     text-decoration: none; }
 
+.boton, .botonrojo, .botonaqua, .botonverde, .botonamarillo, .botonazul {
+  background-color: blueviolet;
+  color: black;
+  text-align: center;
+  border-radius: 2rem;
+  border: 1px solid black; }
+
+.botonrojo {
+  background-color: red;
+  color: beige; }
+
+.botonaqua {
+  background-color: aqua;
+  color: beige; }
+
+.botonverde {
+  background-color: green;
+  color: beige; }
+
+.botonamarillo {
+  background-color: yellow;
+  color: beige; }
+
+.botonazul {
+  background-color: blue;
+  color: beige; }
+
+.letrachica {
+  font-size: 1rem;
+  font-weight: 200; }
+
+.letramed {
+  font-size: 2rem;
+  font-weight: 400; }
+
+.letragrande {
+  font-size: 3rem;
+  font-weight: 600; }
+
+.colorprofe1 {
+  color: red; }
+
+.colorprofe2 {
+  color: blue; }
+
+.colorprofe3 {
+  color: green; }
+
+.colorprofe4 {
+  color: pink; }
+
+.colorprofe5 {
+  color: yellow; }
+
 @media screen and (max-width: 576px) {
   body {
     background-color: #8ae4a5; }

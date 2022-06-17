@@ -1,0 +1,37 @@
+.boton {
+    background-color: blueviolet;
+    color: black;
+    text-align: center;
+    border-radius: 2rem;
+    border: 1px solid black;
+}
+
+.botonrojo{
+    @extend .boton;
+    background-color: red;
+    color: beige;
+}
+
+.botonaqua{
+    @extend .boton;
+    background-color: aqua;
+    color: beige;
+}
+
+.botonverde{
+    @extend .boton;
+    background-color: green;
+    color: beige;
+}
+
+.botonamarillo{
+    @extend .boton;
+    background-color: yellow;
+    color: beige;
+}
+
+.botonazul{
+    @extend .boton;
+    background-color: blue;
+    color: beige;
+}
