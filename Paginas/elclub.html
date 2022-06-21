@@ -5,82 +5,50 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!--Estilos boostrap-->
+  <meta name="description" content="Club de Padel">
+    <meta name="keywords" content="Club padel paddel paleta pelota deporte cancha entrenamiento">
+  <!--Estilos bootstrap-->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
   <!--Estilos Animate-->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <!--Iconos Bootstrap-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
   <link rel="stylesheet" href="../Estilos/main.css">
-  <title>Proyecto Medina Pozzi Nicolas</title>
+  <title>La Carme Paddel Club</title>
 </head>
 
 <body>
 
   <header>
-    <section class="Menulg">
-      <!--Menu-->
-      <nav class="navbar navbar-expand-sm bg-light">
-        <div class="container-fluid">
+    <nav class="navbar navbar-expand-sm bg-light">
+      <div class="container-fluid">
           <a class="navbar-brand" href="../index.html">
-            <img src="../Multimedia/PelotaLogo.png" alt="Logo del Club" width="40" height="28"
-              class="d-inline-block align-text-top">
-            Home
-          </a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
-            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+              <img src="../Multimedia/PelotaLogo.png" alt="Logo del Club" width="40" height="28"
+                  class="d-inline-block align-text-top">Home</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+              data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+              aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav">
-              <a class="nav-link active" aria-current="page" href="./elclub.html">El club</a>
-              <a class="nav-link active" aria-current="page" href="./canchas.html">Canchas</a>
-              <a class="nav-link active" aria-current="page" href="./staff.html">Staff</a>
-              <a class="nav-link active" aria-current="page" href="./contacto.html">Contacto</a>
-            </div>
-          </div>
-        </div>
-      </nav>
-    </section>
-
-    <section class="menusm">
-      <!--Menu Hamburguesa-->
-      <nav class="navbar bg-light fixed-top">
-        <div class="container-fluid">
-          <a class="navbar-brand" href="../index.html">
-            <img src="../Multimedia/PelotaLogo.png" alt="Logo del club" width="40" height="28"
-              class="d-inline-block align-text-top">
-            Home
-          </a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar"
-            aria-controls="offcanvasNavbar">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
-            aria-labelledby="offcanvasNavbarLabel">
-            <div class="offcanvas-header">
-              <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Menu</h5>
-              <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-            </div>
-            <div class="offcanvas-body">
-              <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-                <li class="nav-item">
-                  <a class="nav-link active" href="./elclub.html">El Club</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link active" href="./canchas.html">Canchas</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link active" href="./staff.html">Staff</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link active" href="./contacto.html">Contacto</a>
-                </li>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                      <a class="nav-link active" href="./elclub.html">El Club</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link active" href="./canchas.html">Canchas</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link active" href="./staff.html">Staff</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link active" href="./contacto.html">Contacto</a>
+                  </li>
               </ul>
-            </div>
           </div>
-        </div>
-      </nav>
-    </section>
+      </div>
+  </nav>
   </header>
 
   <!--Cuerpo-->
@@ -88,55 +56,40 @@
     <div class="main-gral">
       <div class="cuerpo">
         <section class="margenes animate__animated animate__fadeInDown">
-          <h1>El Club</h1>
+          <h1 class="letragrande">El Club</h1>
           <p>El pádel nació en Acapulco (México) en 1969 cuando Enrique Corcuera adaptó un terreno de su finca de 20 x
             10
             metros colocando paredes en los fondos y laterales, en principio para que la vegetación no invadiera su
             pista.
             Se jugaba con palas de madera y recibía el nombre de Paddle-Tenis.</p>
         </section>
-        <img src="../Multimedia/historia-padel.jpg" alt="Cancha antigua">
+        <img src="../Multimedia/historia-padel.jpg" alt="Cancha antigua" width="100%">
         <section class="margenes">
           <p>Unos años más tarde, en 1974, Alfonso de Hohenlohe viaja a México invitado por su amigo Enrique. Durante su
             estancia se interesa por la práctica de ese deporte nuevo recién creado. Su entusiasmo por esta nueva
             actividad no se hizo esperar. A su vuelta a España, tras analizar y perfeccionar algunos detalles, construye
             las dos primeras pistas en Marbella Club. Así la historia del pádel fue dando sus primeros pasos.</p>
         </section>
-        <iframe width="484" height="272" src="https://www.youtube.com/embed/gzUJTviFWhM" title="YouTube video player"
+        <iframe width="100%" src="https://www.youtube.com/embed/gzUJTviFWhM" title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
       </div>
     </div>
   </main>
-
-
-
-
-
+  
   <footer>
-    <!--Pie de pagina-->
-    <section>
-        <h5>Av del club 5696, Lanus, Buenos Aires, Argentina</h3>
-
-        <div class="footer">
-           <div class="footer-redes"></div>
-                <ul>
-                    <a href="">
-                    <img class="footer_img" src="../Multimedia/Logo Ig.png" alt="Instragram" width="30" height="30">                
-                </a>
-                <a href="">
-                    <img src="../Multimedia/Logo Facebook.png" alt="Facebook" width="30" height="30">
-                </a>
-                <a href="">
-                    <img src="../Multimedia/Logo Whatsapp.png" alt="Whatsapp" width="30" height="30">
-                </a>
-            </ul>        
+    <div class="footer">
+    <h3 class="letrafooter">Av del club 5696, Lanus, Buenos Aires, Argentina</h3>        
+        <div class="footer-redes">
+            <ul>
+                <a href=""><i class="bi bi-instagram footer-iconos"></i></a>
+                <a href=""><i class="bi bi-facebook footer-iconos"></i></a>
+                <a href=""><i class="bi bi-whatsapp footer-iconos"></i></a>
+            </ul>
         </div>
-    </section>
-
+    </div>
 </footer>
-
 
   <!--JS Boostrap-->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"

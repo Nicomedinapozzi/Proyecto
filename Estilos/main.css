@@ -1,25 +1,18 @@
 body {
   background-color: #eff1e8;
   font-family: Arial, Helvetica, sans-serif;
-  text-align: center;
-  min-width: 100vh; }
-
-.menulg {
-  display: block; }
-
-.menusm {
-  display: none; }
+  text-align: center; }
 
 .main-gral {
   display: grid;
   grid-template-columns: 0.5fr 2fr 0.5fr;
   grid-template-areas: ". cuerpo .";
-  margin-top: 5rem; }
+  margin-top: 2rem; }
   .main-gral .cuerpo {
     grid-area: cuerpo; }
 
 .margenes {
-  margin: 2rem 2rem 2rem 2rem; }
+  margin: 1rem 0.5rem 1rem 0.5rem; }
 
 .main-staff {
   display: grid;
@@ -46,17 +39,18 @@ body {
   justify-content: center;
   align-items: center;
   margin: 1rem 0.5rem 1rem 0.5rem; }
-  .footer_redes ul a {
-    flex-grow: 1;
-    margin: 1rem 0.5rem 1rem 0.5rem;
+  .footer-redes {
     list-style: none;
     text-decoration: none; }
+  .footer-iconos {
+    font-size: 1.5rem;
+    color: black; }
 
 .boton, .botonrojo, .botonaqua, .botonverde, .botonamarillo, .botonazul {
-  background-color: blueviolet;
+  background-color: blue;
   color: black;
   text-align: center;
-  border-radius: 2rem;
+  border-radius: 0.5rem;
   border: 1px solid black; }
 
 .botonrojo {
@@ -79,17 +73,22 @@ body {
   background-color: blue;
   color: beige; }
 
-.letrachica {
+.letrafooter {
   font-size: 1rem;
-  font-weight: 200; }
+  font-weight: 600; }
 
 .letramed {
   font-size: 2rem;
-  font-weight: 400; }
+  font-weight: 700; }
 
 .letragrande {
   font-size: 3rem;
-  font-weight: 600; }
+  font-weight: 800; }
+
+.letform {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: 500; }
 
 .colorprofe1 {
   color: red; }
@@ -106,9 +105,13 @@ body {
 .colorprofe5 {
   color: yellow; }
 
+.input {
+  width: 90%;
+  box-sizing: border-box; }
+
 @media screen and (max-width: 576px) {
   body {
-    background-color: #8ae4a5; }
+    background-color: #fdfdfd; }
   .menulg {
     display: none; }
   .menusm {
@@ -116,4 +119,6 @@ body {
   .main-staff {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
-    grid-template-areas: "staff1" "staff2" "staff3" "staff4" "staff5"; } }
+    grid-template-areas: "staff1" "staff2" "staff3" "staff4" "staff5"; }
+  .footer {
+    flex-direction: column; } }

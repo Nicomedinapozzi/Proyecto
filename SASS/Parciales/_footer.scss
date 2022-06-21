@@ -5,11 +5,14 @@
     margin: $margingral;
 
     
-    &_redes ul a{  
-        flex-grow: 1;     
-        margin: $margingral;        
+    &-redes{ 
         list-style: none;
         text-decoration: none; 
+    }
+
+    &-iconos {
+        font-size: 1.5rem;
+        color: black;
     }
 
    

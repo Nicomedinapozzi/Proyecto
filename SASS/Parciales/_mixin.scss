@@ -3,14 +3,20 @@
     font-weight: $weight;    
 }
 
-.letrachica {
-    @include Fuentes(1rem, 200)
+.letrafooter {
+    @include Fuentes(1rem, 600)
 }
 
 .letramed {
-    @include Fuentes(2rem, 400)
+    @include Fuentes(2rem, 700)
 }
 
 .letragrande {
-    @include Fuentes(3rem, 600)
+    @include Fuentes(3rem, 800)
+}
+
+.letform {
+    font-family: Arial, Helvetica, sans-serif;
+    @include Fuentes(1rem, 500)
+    
 }

@@ -1,33 +1,22 @@
 body{
     background-color: rgb(239, 241, 232);
     font-family: $fuentetit;
-    text-align: center;
-    min-width: 100vh;
-    
-}
-
-.menulg {
-    display: block;
-}
-
-.menusm{
-    display: none;
+    text-align: center;    
 }
 
 .main-gral {
     display: grid;
     grid-template-columns: 0.5fr 2fr 0.5fr;
     grid-template-areas: ". cuerpo .";
-    margin-top: 5rem;
+    margin-top: 2rem;
 
     .cuerpo{
         grid-area: cuerpo;
     }
-
 }
 
 .margenes {
-    margin: 2rem 2rem 2rem 2rem;
+    margin: $margingral;
 }
 
 .main-staff{
@@ -43,9 +32,10 @@ body{
                                 margin: $margingral;
                             }
                          }
-
                         
 }
+
+
 
 
 
